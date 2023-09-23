@@ -24,11 +24,11 @@ header h1 {
 .image img{
     width: 100%;
 }
-div.postbox .tittle div:first-child {
+.tittle div:first-child {
     display: inline-block;
     width: 80%;
 }
-div.postbox .tittle div:last-child {
+.tittle div:last-child {
     display: inline-block;
     width: 20%;
     text-align: right;
